@@ -4,10 +4,9 @@ before_script:
 android:
   components:
   - tools
-  - tools
   - platform-tools
   - build-tools-24.0.2
-  - android-25
+  - android-24
   - extra-android-m2repository
   licenses:
   - android-sdk-license-.+
